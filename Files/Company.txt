@@ -1,0 +1,7 @@
+Company{nameOfCompany = 'Printing House' 
+How many times print editions = 6 
+Income From All Editions = 121.55 
+Expenses For Paper Pages = 120.0 
+Expenses For Salaries For Employees = 2560.06 
+Expenses For Paper And Employees = 2680.06 
+EditionList = [Edition{nameOfEdition='Zimni Vecheri - Hristo Smirnenski', numberOfPages=160, typeOfEdition=BOOK, typeOfSizeOfPages=A4, typeOfPaper=PLAIN_PAPER}, Edition{nameOfEdition='Do Chikago I Nazad - Aleko Konstantinov', numberOfPages=120, typeOfEdition=BOOK, typeOfSizeOfPages=A5, typeOfPaper=PLAIN_PAPER}, Edition{nameOfEdition='Ariana Grande', numberOfPages=1, typeOfEdition=POSTER, typeOfSizeOfPages=A1, typeOfPaper=GLOSSY_PAPER}, Edition{nameOfEdition='CNN Newspaper', numberOfPages=20, typeOfEdition=NEWSPAPER, typeOfSizeOfPages=A2, typeOfPaper=NEWSPAPER_PAPER}]}
